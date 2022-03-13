@@ -8,7 +8,7 @@ This is ~~not~~ my first repository on GitHub
 
 [Tutor Day 5 E Period Physics Hon](https://tuo-v.github.io/Tutor/Tutor%20Day%205%20E%20Period.html)
 
-[Tutor Day 6 E Period Pre Cal](https://tuo-v.github.io/Tutor/Tutor%20Day%205%20E%20Period.html)
+[Tutor Day 6 E Period Pre Cal](https://tuo-v.github.io/Tutor/Tutor%20Day%206%20E%20Period.html)
 
 # ~~Collusion~~ Cartel
 ~~AP Micro Cartel~~
