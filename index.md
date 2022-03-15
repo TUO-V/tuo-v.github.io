@@ -1,5 +1,5 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 Eukaryotic Translation
+
 1. Translation is the synthesis of a _protein_ from _mRNA_.
 
 2. What RNA molecule will be used for transferring amino acids to a growing polypeptide?
@@ -43,7 +43,7 @@ _UAA, UAG and UGA are the termination signals for translation._
 
 1) All three types of RNA (messenger, transfer, and ribosomal) are involved in translation.
 2) A strand of mRNA dictates the amino acids that will be incorporated into protein. 
-_3) rRNAs carry the amino acids to the mRNA strand._
+3) _rRNAs carry the amino acids to the mRNA strand._
 4) The mRNA has codons which form base pairs with the anticodons on the tRNA.
 
 13. All of the following are steps involved in protein synthesis EXCEPT
