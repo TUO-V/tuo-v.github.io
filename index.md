@@ -1,3 +1,5 @@
+有些格式不太好看，~懒得弄了~，将就一下
+
 Eukaryotic Translation
 
 1. Translation is the synthesis of a _protein_ from _mRNA_.
@@ -61,12 +63,12 @@ _UAA, UAG and UGA are the termination signals for translation._
 16. The two main processes linking gene to protein are
 
 1) elongation and termination					2) initiation and transcription
-_3) transcription and translation_				4) termination and translation
+3) _transcription and translation_				4) termination and translation
 
 17. During translation, the initiation complex is composed of
 
 1) an RNA polymerase, a DNA molecule, and accessory proteins
-_2) an mRNA, a tRNA molecule, and two ribosomal subunits_
+2) _an mRNA, a tRNA molecule, and two ribosomal subunits_
 3) a DNA polymerase, an mRNA molecule, and a polypeptide chain
 4) a tRNA molecule, an amino acid, and an anticodon
 
@@ -75,14 +77,18 @@ _2) an mRNA, a tRNA molecule, and two ribosomal subunits_
 1) mRNA - carries the genetic information coded for in the DNA to the ribosomes.
 2) rRNA - interacts with the ribosomal protein and helps maintain the characteristic shape of the ribosome.
 3) tRNA - inserts the amino acid specified by the codon on mRNA into the polypeptide chain.
-_4) Transposable elements - DNA sequences that wrap around each other into clusters._
+4) _Transposable elements - DNA sequences that wrap around each other into clusters._
 
 19. Which of the following features are present in both prokaryotic and eukaryotic cells?
 
-1) Nucleus							2) Endoplasmic reticulum
-_3) Ribosomes_						4) Linear chromosomes made of DNA and protein
+1) Nucleus
+2) Endoplasmic reticulum
+3) _Ribosomes_
+4) Linear chromosomes made of DNA and protein
 
 20. In eukaryotes, ribosomes
 
-1) are composed of tRNA								2) exist in cytoplasm as one unit
-3) form a complete unit in association with mRNA		_4) take part in DNA synthesis_
+1) are composed of tRNA
+2) exist in cytoplasm as one unit
+3) form a complete unit in association with mRNA
+4) _take part in DNA synthesis_
